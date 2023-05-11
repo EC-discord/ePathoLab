@@ -1,0 +1,20 @@
+.payment {
+    font-weight: bold;
+    color: black!important;
+    border-bottom: 2px solid;
+}
+.row:hover {
+    border-left: 3px solid black;
+    border-radius: 3px;
+}
+.navbar-brand {
+    margin-left: 10px;
+}
+.picon {
+    width: 30px;
+    height: 30px;
+}
+.navbar-brand {
+    font-weight: 700;
+    font-size: 25px;
+}

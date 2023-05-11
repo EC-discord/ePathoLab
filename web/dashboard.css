@@ -1,0 +1,19 @@
+.navbar-brand {
+    margin-left: 10px;
+}
+.picon {
+    width: 30px;
+    height: 30px;
+}
+.dashboard {
+    font-weight: bold;
+    color: black!important;
+    border-bottom: 2px solid;
+}
+.heading {
+    margin-left: 10px;
+}
+.navbar-brand {
+    font-weight: 700;
+    font-size: 25px;
+}
